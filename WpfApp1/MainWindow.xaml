@@ -23,7 +23,7 @@
                 <DropShadowEffect BlurRadius="1" ShadowDepth="10"/>
             </Label.Effect>
         </Label>
-        <Button x:Name="button2" Content="Убрать" HorizontalAlignment="Left" Margin="44,264,0,0" VerticalAlignment="Top" Width="162" Height="34" Click="Button2_Click" Background="#FFFCF9A0" FontSize="16" BorderBrush="#02707070" Foreground="#FFF77F86" RenderTransformOrigin="0.506,0.441" FontWeight="Bold" IsDefault="True">
+        <Button x:Name="button2" Content="Убрать" HorizontalAlignment="Left" Margin="55,264,0,0" VerticalAlignment="Top" Width="162" Height="34" Click="Button2_Click" Background="#FFFCF9A0" FontSize="16" BorderBrush="#02707070" Foreground="#FFF77F86" RenderTransformOrigin="0.506,0.441" FontWeight="Bold" IsDefault="True">
             <Button.Effect>
                 <DropShadowEffect BlurRadius="1" ShadowDepth="10"/>
             </Button.Effect>
